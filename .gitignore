@@ -1,0 +1,11 @@
+data/synthea_raw/
+data/warehouse/
+outputs/models/
+*.parquet
+*.csv
+!data/lexicons/*.csv
+__pycache__/
+.ipynb_checkpoints/
+.env
+venv/
+.DS_Store
